@@ -30,6 +30,9 @@ namespace ConsoleApp1
                 case "/":
                     Console.Write("Division = {0} ", Calculator.Division(FirstNumber, SecondNumber));
                     break;
+                default :
+                    Console.Write("Invalid operator");
+                    break;
             }
         }
     }
