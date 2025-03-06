@@ -1,0 +1,13 @@
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormClient2.csproj.AssemblyReference.cache
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormClient2.Form1.resources
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormClient2.Properties.Resources.resources
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormClient2.csproj.GenerateResource.cache
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormClient2.csproj.CoreCompileInputs.cache
+E:\Repos\GitHub\WinFormClient2\bin\Debug\WinFormClient2.exe.config
+E:\Repos\GitHub\WinFormClient2\bin\Debug\WinFormClient2.exe
+E:\Repos\GitHub\WinFormClient2\bin\Debug\WinFormClient2.pdb
+E:\Repos\GitHub\WinFormClient2\bin\Debug\MathsLibrary.dll
+E:\Repos\GitHub\WinFormClient2\bin\Debug\MathsLibrary.pdb
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormC.1752E815.Up2Date
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormClient2.exe
+E:\Repos\GitHub\WinFormClient2\obj\Debug\WinFormClient2.pdb

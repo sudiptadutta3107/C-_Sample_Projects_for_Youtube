@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F2652DE8-BDE8-4239-8979-B38CC038A218}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleApp1\ConsoleClient.csproj", "{F2652DE8-BDE8-4239-8979-B38CC038A218}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsLibrary", "MathsLibrary\MathsLibrary.csproj", "{ED6DCC9F-B5F0-4745-9B33-BE633A19AB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient2", "WinFormClient2\WinFormClient2.csproj", "{304CF5CE-E125-454D-AB2A-381A5CC6B189}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{ED6DCC9F-B5F0-4745-9B33-BE633A19AB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED6DCC9F-B5F0-4745-9B33-BE633A19AB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED6DCC9F-B5F0-4745-9B33-BE633A19AB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304CF5CE-E125-454D-AB2A-381A5CC6B189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304CF5CE-E125-454D-AB2A-381A5CC6B189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304CF5CE-E125-454D-AB2A-381A5CC6B189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304CF5CE-E125-454D-AB2A-381A5CC6B189}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31679198-AD59-450E-AA70-1BFB9F672E45}
 	EndGlobalSection
 EndGlobal

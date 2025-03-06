@@ -1,0 +1,10 @@
+E:\Repos\GitHub\WinFormClient\bin\Debug\WinFormClient.exe.config
+E:\Repos\GitHub\WinFormClient\bin\Debug\WinFormClient.exe
+E:\Repos\GitHub\WinFormClient\bin\Debug\WinFormClient.pdb
+E:\Repos\GitHub\WinFormClient\obj\Debug\WinFormClient.csproj.AssemblyReference.cache
+E:\Repos\GitHub\WinFormClient\obj\Debug\WinFormClient.Form1.resources
+E:\Repos\GitHub\WinFormClient\obj\Debug\WinFormClient.Properties.Resources.resources
+E:\Repos\GitHub\WinFormClient\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+E:\Repos\GitHub\WinFormClient\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+E:\Repos\GitHub\WinFormClient\obj\Debug\WinFormClient.exe
+E:\Repos\GitHub\WinFormClient\obj\Debug\WinFormClient.pdb

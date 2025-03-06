@@ -1,7 +1,6 @@
 ﻿using System;
-using ConsoleApp1;
 
-namespace ConsoleApp1
+namespace ConsoleClient
 {
     internal class Program
     {
@@ -23,16 +22,16 @@ namespace ConsoleApp1
                 switch (Operator)
                 {
                     case "+":
-                        Console.Write("Addition = {0} ", Calculator.Addition(FirstNumber, SecondNumber));
+                        Console.Write("Addition = {0} ", MathsLibrary.Calculator.Addition(FirstNumber, SecondNumber));
                         break;
                     case "-":
-                        Console.Write("Substraction = {0} ", Calculator.Substraction(FirstNumber, SecondNumber));
+                        Console.Write("Substraction = {0} ", MathsLibrary.Calculator.Substraction(FirstNumber, SecondNumber));
                         break;
                     case "*":
-                        Console.Write("Multiplication = {0} ", Calculator.Multiplication(FirstNumber, SecondNumber));
+                        Console.Write("Multiplication = {0} ", MathsLibrary.Calculator.Multiplication(FirstNumber, SecondNumber));
                         break;
                     case "/":
-                        Console.Write("Division = {0} ", Calculator.Division(FirstNumber, SecondNumber));
+                        Console.Write("Division = {0} ", MathsLibrary.Calculator.Division(FirstNumber, SecondNumber));
                         break;
                     default:
                         Console.Write("Invalid operator");
