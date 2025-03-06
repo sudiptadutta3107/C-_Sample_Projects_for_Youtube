@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WinFormClient2
 {
@@ -16,10 +17,26 @@ namespace WinFormClient2
 
             double SecondNumber = double.Parse(textBox2.Text);
 
-            double result = MathsLibrary.Calculator.Addition(FirstNumber, SecondNumber);
-
-            textBox3.Text = result.ToString();
-
+            if (radioButton1.Checked == true)
+            {
+                textBox3.Text = MathsLibrary.Calculator.Addition(FirstNumber, SecondNumber).ToString();
+            }
+            else if (radioButton2.Checked == true)
+            {
+                textBox3.Text = MathsLibrary.Calculator.Substraction(FirstNumber, SecondNumber).ToString();
+            }
+            else if (radioButton3.Checked == true)
+            {
+                textBox3.Text = MathsLibrary.Calculator.Multiplication(FirstNumber, SecondNumber).ToString();
+            }
+            else if (radioButton4.Checked == true)
+            {
+                textBox3.Text = MathsLibrary.Calculator.Division(FirstNumber, SecondNumber).ToString();
+            }
+            else
+            {
+                textBox3.Text = "Invalid operator";
+            }
         }
     }
 }

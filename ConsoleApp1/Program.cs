@@ -19,28 +19,29 @@ namespace ConsoleClient
                 Console.Write("\n Enter the operator [+ - * /]: ");
                 Operator = Console.ReadLine();
 
-                switch (Operator)
+                if(Operator == "+")
                 {
-                    case "+":
-                        Console.Write("Addition = {0} ", MathsLibrary.Calculator.Addition(FirstNumber, SecondNumber));
-                        break;
-                    case "-":
-                        Console.Write("Substraction = {0} ", MathsLibrary.Calculator.Substraction(FirstNumber, SecondNumber));
-                        break;
-                    case "*":
-                        Console.Write("Multiplication = {0} ", MathsLibrary.Calculator.Multiplication(FirstNumber, SecondNumber));
-                        break;
-                    case "/":
-                        Console.Write("Division = {0} ", MathsLibrary.Calculator.Division(FirstNumber, SecondNumber));
-                        break;
-                    default:
-                        Console.Write("Invalid operator");
-                        break;
+                    Console.Write("Addition = {0} ", MathsLibrary.Calculator.Addition(FirstNumber, SecondNumber));
                 }
-            } while (Operator != string.Empty);
+                else if (Operator == "-")
+                {
+                    Console.Write("Substraction = {0} ", MathsLibrary.Calculator.Substraction(FirstNumber, SecondNumber));
+                }
+                else if (Operator == "*")
+                {
+                    Console.Write("Multiplication = {0} ", MathsLibrary.Calculator.Multiplication(FirstNumber, SecondNumber));
+                }
+                else if (Operator == "/")
+                {
+                    Console.Write("Division = {0} ", MathsLibrary.Calculator.Division(FirstNumber, SecondNumber));
+                }
+                else
+                {
+                    Console.Write("Invalid operator");
+                }               
 
 
-            
+            } while (Operator != string.Empty);            
         }
     }
 }
