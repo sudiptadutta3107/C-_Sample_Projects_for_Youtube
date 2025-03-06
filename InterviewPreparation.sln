@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleApp1\ConsoleClient.csproj", "{F2652DE8-BDE8-4239-8979-B38CC038A218}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Client", "ConsoleApp1\Console Client.csproj", "{F2652DE8-BDE8-4239-8979-B38CC038A218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsLibrary", "MathsLibrary\MathsLibrary.csproj", "{ED6DCC9F-B5F0-4745-9B33-BE633A19AB22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Library", "MathsLibrary\Math Library.csproj", "{ED6DCC9F-B5F0-4745-9B33-BE633A19AB22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient", "WinFormClient2\WinFormClient.csproj", "{304CF5CE-E125-454D-AB2A-381A5CC6B189}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm Client", "WinFormClient2\WinForm Client.csproj", "{304CF5CE-E125-454D-AB2A-381A5CC6B189}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClient", "WpfClient\WpfClient.csproj", "{D8BAA588-D3D4-4C88-8F45-78C6905A37BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Client", "WpfClient\WPF Client.csproj", "{D8BAA588-D3D4-4C88-8F45-78C6905A37BD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject

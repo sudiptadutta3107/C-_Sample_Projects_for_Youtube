@@ -2,27 +2,27 @@
   "version": 3,
   "targets": {
     "net8.0-windows7.0": {
-      "MathsLibrary/1.0.0": {
+      "Math Library/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/MathsLibrary.dll": {}
+          "bin/placeholder/Math Library.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MathsLibrary.dll": {}
+          "bin/placeholder/Math Library.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MathsLibrary/1.0.0": {
+    "Math Library/1.0.0": {
       "type": "project",
-      "path": "../MathsLibrary/MathsLibrary.csproj",
-      "msbuildProject": "../MathsLibrary/MathsLibrary.csproj"
+      "path": "../MathsLibrary/Math Library.csproj",
+      "msbuildProject": "../MathsLibrary/Math Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "MathsLibrary >= 1.0.0"
+      "Math Library >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\GitHub\\WpfClient\\WpfClient.csproj",
-      "projectName": "WpfClient",
-      "projectPath": "E:\\Repos\\GitHub\\WpfClient\\WpfClient.csproj",
+      "projectUniqueName": "E:\\Repos\\GitHub\\WpfClient\\WPF Client.csproj",
+      "projectName": "WPF Client",
+      "projectPath": "E:\\Repos\\GitHub\\WpfClient\\WPF Client.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Repos\\GitHub\\WpfClient\\obj\\",
       "projectStyle": "PackageReference",
@@ -57,8 +57,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\Repos\\GitHub\\MathsLibrary\\MathsLibrary.csproj": {
-              "projectPath": "E:\\Repos\\GitHub\\MathsLibrary\\MathsLibrary.csproj"
+            "E:\\Repos\\GitHub\\MathsLibrary\\Math Library.csproj": {
+              "projectPath": "E:\\Repos\\GitHub\\MathsLibrary\\Math Library.csproj"
             }
           }
         }

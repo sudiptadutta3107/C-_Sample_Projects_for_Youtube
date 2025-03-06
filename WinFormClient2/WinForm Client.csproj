@@ -82,9 +82,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MathsLibrary\MathsLibrary.csproj">
+    <ProjectReference Include="..\MathsLibrary\Math Library.csproj">
       <Project>{ed6dcc9f-b5f0-4745-9b33-be633a19ab22}</Project>
-      <Name>MathsLibrary</Name>
+      <Name>Math Library</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

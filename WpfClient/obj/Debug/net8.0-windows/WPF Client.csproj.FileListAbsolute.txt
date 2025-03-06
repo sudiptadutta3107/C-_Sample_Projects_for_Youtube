@@ -1,0 +1,25 @@
+E:\Repos\GitHub\WpfClient\bin\Debug\net8.0-windows\WPF Client.exe
+E:\Repos\GitHub\WpfClient\bin\Debug\net8.0-windows\WPF Client.deps.json
+E:\Repos\GitHub\WpfClient\bin\Debug\net8.0-windows\WPF Client.runtimeconfig.json
+E:\Repos\GitHub\WpfClient\bin\Debug\net8.0-windows\WPF Client.dll
+E:\Repos\GitHub\WpfClient\bin\Debug\net8.0-windows\WPF Client.pdb
+E:\Repos\GitHub\WpfClient\bin\Debug\net8.0-windows\MathsLibrary.dll
+E:\Repos\GitHub\WpfClient\bin\Debug\net8.0-windows\MathsLibrary.pdb
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.csproj.AssemblyReference.cache
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\App.g.cs
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client_MarkupCompile.cache
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client_MarkupCompile.lref
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.g.resources
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.AssemblyInfoInputs.cache
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.AssemblyInfo.cs
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.csproj.CoreCompileInputs.cache
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.sourcelink.json
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.csproj.Up2Date
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.dll
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\refint\WPF Client.dll
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.pdb
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\WPF Client.genruntimeconfig.cache
+E:\Repos\GitHub\WpfClient\obj\Debug\net8.0-windows\ref\WPF Client.dll

@@ -1,0 +1,14 @@
+E:\Repos\GitHub\ConsoleClient_VB\bin\Debug\ConsoleClient_VB.exe.config
+E:\Repos\GitHub\ConsoleClient_VB\bin\Debug\ConsoleClient_VB.exe
+E:\Repos\GitHub\ConsoleClient_VB\bin\Debug\ConsoleClient_VB.pdb
+E:\Repos\GitHub\ConsoleClient_VB\bin\Debug\ConsoleClient_VB.xml
+E:\Repos\GitHub\ConsoleClient_VB\bin\Debug\MathsLibrary.dll
+E:\Repos\GitHub\ConsoleClient_VB\bin\Debug\MathsLibrary.pdb
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleClient_VB.vbproj.AssemblyReference.cache
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleClient_VB.Resources.resources
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleClient_VB.vbproj.GenerateResource.cache
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleClient_VB.vbproj.CoreCompileInputs.cache
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleC.028184E5.Up2Date
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleClient_VB.exe
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleClient_VB.xml
+E:\Repos\GitHub\ConsoleClient_VB\obj\Debug\ConsoleClient_VB.pdb
